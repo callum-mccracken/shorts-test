@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<!-- Geometry for QS3C quadruplet -->
+<!-- File generated automatically with 'sTGCGeometryMaker' (gitlab.cern.ch/McGill-sTGC/sTGCGeometryMaker) -->
+
+<geometry>
+
+	<parameterBookVersion>24.3</parameterBookVersion>
+
+	<nChannels_H12>42</nChannels_H12>
+	<nPadRows_H12>14</nPadRows_H12>
+	<yDistIPtoLB_H12>4445.4</yDistIPtoLB_H12>
+	<yBeginBoard_H12>0</yBeginBoard_H12>
+	<boardH1_H12>1005.8</boardH1_H12>
+	<boardH2_H12>0</boardH2_H12>
+	<boardLB_H12>1391.4</boardLB_H12>
+	<yBeginFirstRow_H12>11</yBeginFirstRow_H12>
+	<yEndFirstRow_H12>45.382</yEndFirstRow_H12>
+	<yBeginLastRow_H12>964.498</yBeginLastRow_H12>
+	<yEndLastRow_H12>991.8</yEndLastRow_H12>
+	<yHeightRow_H12>76.593</yHeightRow_H12>
+	<phiLimits_H12>-5.625,1.875</phiLimits_H12>
+	<offsetLimits_H12>-2,-2</offsetLimits_H12>
+	<sideEdge_H12>21</sideEdge_H12>
+
+	<nChannels_H34>39</nChannels_H34>
+	<nPadRows_H34>13</nPadRows_H34>
+	<yDistIPtoLB_H34>4445.4</yDistIPtoLB_H34>
+	<yBeginBoard_H34>0</yBeginBoard_H34>
+	<boardH1_H34>1005.8</boardH1_H34>
+	<boardH2_H34>0</boardH2_H34>
+	<boardLB_H34>1391.4</boardLB_H34>
+	<yBeginFirstRow_H34>11</yBeginFirstRow_H34>
+	<yEndFirstRow_H34>72.66</yEndFirstRow_H34>
+	<yBeginLastRow_H34>912.543</yBeginLastRow_H34>
+	<yEndLastRow_H34>991.8</yEndLastRow_H34>
+	<yHeightRow_H34>76.353</yHeightRow_H34>
+	<phiLimits_H34>-5.625,1.875</phiLimits_H34>
+	<offsetLimits_H34>2,2</offsetLimits_H34>
+	<sideEdge_H34>21</sideEdge_H34>
+
+</geometry>

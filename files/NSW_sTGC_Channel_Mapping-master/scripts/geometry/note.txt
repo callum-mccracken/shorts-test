@@ -1,0 +1,5 @@
+Geometry files taken from:
+project_url='ssh://git@gitlab.cern.ch:7999/McGill-sTGC/tgc_analysis.git'
+gitlab_url='https://gitlab.cern.ch/McGill-sTGC/tgc_analysis'
+path='tgc_analysis/geometry/'
+commit='1a3dfe5a69a77984924978346a6507e4ba46001d'

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<!-- Geometry for QL3 quadruplet -->
+<!-- File generated automatically with 'sTGCGeometryMaker' (gitlab.cern.ch/McGill-sTGC/sTGCGeometryMaker) -->
+
+<geometry>
+
+	<parameterBookVersion>24.3</parameterBookVersion>
+
+	<stripPitch>3.2</stripPitch>
+	<wirePitch>36</wirePitch>
+	<globalPhiAngle>28</globalPhiAngle>
+	<wirePlanesZPositions>-16.455,-5.485,5.485,16.455</wirePlanesZPositions>
+
+	<nChannels_K13>353</nChannels_K13>
+	<yBeginBoard_K13>0</yBeginBoard_K13>
+	<boardH1_K13>607.7</boardH1_K13>
+	<boardH2_K13>542.3</boardH2_K13>
+	<boardLB_K13>2111</boardLB_K13>
+	<yBeginFirstStrip_K13>11</yBeginFirstStrip_K13>
+	<yEndFirstStrip_K13>12.6</yEndFirstStrip_K13>
+	<yBeginLastStrip_K13>1135.8</yBeginLastStrip_K13>
+	<yEndLastStrip_K13>1139</yEndLastStrip_K13>
+
+	<nChannels_K24>353</nChannels_K24>
+	<yBeginBoard_K24>0</yBeginBoard_K24>
+	<boardH1_K24>607.7</boardH1_K24>
+	<boardH2_K24>542.3</boardH2_K24>
+	<boardLB_K24>2111</boardLB_K24>
+	<yBeginFirstStrip_K24>11</yBeginFirstStrip_K24>
+	<yEndFirstStrip_K24>14.2</yEndFirstStrip_K24>
+	<yBeginLastStrip_K24>1137.4</yBeginLastStrip_K24>
+	<yEndLastStrip_K24>1139</yEndLastStrip_K24>
+
+	<nChannels_W1>57</nChannels_W1>
+	<xBeginFirstGroup_W1>-1019.7</xBeginFirstGroup_W1>
+	<xEndFirstGroup_W1>-983.7</xEndFirstGroup_W1>
+	<xBeginLastGroup_W1>996.3</xBeginLastGroup_W1>
+	<xEndLastGroup_W1>1019.7</xEndLastGroup_W1>
+
+	<nChannels_W2>58</nChannels_W2>
+	<xBeginFirstGroup_W2>-1020.15</xBeginFirstGroup_W2>
+	<xEndFirstGroup_W2>-1011.15</xEndFirstGroup_W2>
+	<xBeginLastGroup_W2>1004.85</xBeginLastGroup_W2>
+	<xEndLastGroup_W2>1021.05</xEndLastGroup_W2>
+
+	<nChannels_W3>58</nChannels_W3>
+	<xBeginFirstGroup_W3>-1021.05</xBeginFirstGroup_W3>
+	<xEndFirstGroup_W3>-1003.05</xEndFirstGroup_W3>
+	<xBeginLastGroup_W3>1012.95</xBeginLastGroup_W3>
+	<xEndLastGroup_W3>1020.15</xEndLastGroup_W3>
+
+	<nChannels_W4>57</nChannels_W4>
+	<xBeginFirstGroup_W4>-1020.6</xBeginFirstGroup_W4>
+	<xEndFirstGroup_W4>-993.6</xEndFirstGroup_W4>
+	<xBeginLastGroup_W4>986.4</xBeginLastGroup_W4>
+	<xEndLastGroup_W4>1020.6</xEndLastGroup_W4>
+
+	<buttonDiameter>7</buttonDiameter>
+	<supportWidth>7</supportWidth>
+
+	<yBeginGap_GV1>11</yBeginGap_GV1>
+	<gapH1_GV1>596.7</gapH1_GV1>
+	<gapH2_GV1>531.3</gapH2_GV1>
+	<gapLB_GV1>2054</gapLB_GV1>
+	<supportsWidth_GV1>7,7,7,7,7</supportsWidth_GV1>
+	<supportsY_GV1>170.5,397.5,624.5,851.5,1078.5</supportsY_GV1>
+	<buttonX_GV1></buttonX_GV1>
+	<buttonY_GV1></buttonY_GV1>
+
+	<yBeginGap_GV2>11</yBeginGap_GV2>
+	<gapH1_GV2>596.7</gapH1_GV2>
+	<gapH2_GV2>531.3</gapH2_GV2>
+	<gapLB_GV2>2054</gapLB_GV2>
+	<supportsWidth_GV2>7,7,7,7,7</supportsWidth_GV2>
+	<supportsY_GV2>137.5,364.5,591.5,818.5,1045.5</supportsY_GV2>
+	<buttonX_GV2></buttonX_GV2>
+	<buttonY_GV2></buttonY_GV2>
+
+	<yBeginGap_GV3>11</yBeginGap_GV3>
+	<gapH1_GV3>596.7</gapH1_GV3>
+	<gapH2_GV3>531.3</gapH2_GV3>
+	<gapLB_GV3>2054</gapLB_GV3>
+	<supportsWidth_GV3>7,7,7,7,7</supportsWidth_GV3>
+	<supportsY_GV3>104.5,331.5,558.5,785.5,1012.5</supportsY_GV3>
+	<buttonX_GV3></buttonX_GV3>
+	<buttonY_GV3></buttonY_GV3>
+
+	<yBeginGap_GV4>11</yBeginGap_GV4>
+	<gapH1_GV4>596.7</gapH1_GV4>
+	<gapH2_GV4>531.3</gapH2_GV4>
+	<gapLB_GV4>2054</gapLB_GV4>
+	<supportsWidth_GV4>7,7,7,7,7</supportsWidth_GV4>
+	<supportsY_GV4>71.5,298.5,525.5,752.5,979.5</supportsY_GV4>
+	<buttonX_GV4></buttonX_GV4>
+	<buttonY_GV4></buttonY_GV4>
+
+
+</geometry>
